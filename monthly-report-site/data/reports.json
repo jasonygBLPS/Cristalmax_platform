@@ -1,0 +1,21 @@
+{
+  "companyName": "範例綠電有限公司",
+  "pageTitle": "特定電力供應業公開資訊",
+  "years": [
+    {
+      "year": 2025,
+      "reports": [
+        { "month": 1, "title": "2025年1月 供售電量月報", "file": "reports/2025/2025-01.pdf" },
+        { "month": 2, "title": "2025年2月 供售電量月報", "file": "reports/2025/2025-02.pdf" }
+      ]
+    },
+    {
+      "year": 2024,
+      "reports": [
+        { "month": 1, "title": "2024年1月 供售電量月報", "file": "reports/2024/2024-01.pdf" },
+        { "month": 2, "title": "2024年2月 供售電量月報", "file": "reports/2024/2024-02.pdf" },
+        { "month": 3, "title": "2024年3月 供售電量月報", "file": "reports/2024/2024-03.pdf" }
+      ]
+    }
+  ]
+}
